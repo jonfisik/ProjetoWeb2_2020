@@ -28,4 +28,7 @@ h1{
 }
 .imagens{
     border: 10px solid #c3c3ae;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
