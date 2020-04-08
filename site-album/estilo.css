@@ -11,6 +11,7 @@ a{
 h1{
     color: #828271;
     font-size: 1.2 em;
+    text-shadow: 1.8px 1px 1px #4f4f4f;
 }
 #principal{
     width: 1000px;
@@ -30,7 +31,6 @@ h1{
     text-align: center;
     background: #c5c5b2;
     padding: 1px; 
-    
 }
 .imagens{
     border: 10px solid #c3c3ae;
