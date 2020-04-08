@@ -27,7 +27,10 @@ h1{
     padding: 10px;
 }
 #rodape{
-    text-align: center; 
+    text-align: center;
+    background: #c5c5b2;
+    padding: 1px; 
+    
 }
 .imagens{
     border: 10px solid #c3c3ae;
